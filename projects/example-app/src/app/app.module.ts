@@ -17,7 +17,7 @@ import { AsyncTreeComponent } from './async/async.component';
 import { SaveRestoreComponent } from './save-restore/save-restore.component';
 import { CheckboxesComponent } from './checkboxes/checkboxes.component';
 import { DragComponent } from './drag/drag.component';
-import { VirtualscrollComponent } from './virtualscroll/virtualscroll.component';
+import { TestComponent, VirtualscrollComponent } from './virtualscroll/virtualscroll.component';
 import { ApiComponent } from './api/api.component';
 import { ActionsComponent } from './actions/actions.component';
 import { ScrollContainerComponent } from './scrollcontainer/scrollcontainer.component';
@@ -42,6 +42,7 @@ import { DragOverStylingFullTreeComponent } from './dragover-styling/dragover-st
     DragOverStylingComponent,
     DragOverStylingFullTreeComponent,
     VirtualscrollComponent,
+    TestComponent,
     ApiComponent,
     ActionsComponent,
     ScrollContainerComponent,
